@@ -7,7 +7,7 @@ class UberVan extends Car {
   // Tipo de Material aceptado
   ArrayList<String> seatsMaterial;
   // constructor
-  public UberVan(String license, Account driver, 
+  public UberVan(String license, Driver driver, 
   Map<String, Map<String, Integer>> typeCarAccepted,
   ArrayList<String> seatsMaterial){
   
