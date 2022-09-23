@@ -1,2 +1,5 @@
-# archivos java class
+# archivos java 
 *.class
+
+# archivos python
+__pycache__
